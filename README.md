@@ -1,4 +1,4 @@
-Zápočtový program (Zimný semester 2019/2020)
+Zápočtový program (Zimný semester 2019/2020) - DÁMA (hra)
 
 Klasická hra dáma pre dvoch hráčov na šachovnici.
 
