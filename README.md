@@ -7,6 +7,6 @@ Hra pre dvoch hráčov - biely a čierny.
 Začína biely hráč. V termináli po každom ťahu napíše informácie o aktuálnom stave hry.
 
 AKO HRAŤ: 
-Kliknutím a zakliknutého tlačidla vyberieme hraciu figúrku a následne myš klikneme na cieľovej destinácii.
+Kliknutím tlačidla vyberieme hraciu figúrku a následne myš klikneme na cieľovej destinácii.
 
 v1.1.0 65.02.20 
