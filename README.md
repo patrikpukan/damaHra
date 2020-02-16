@@ -9,4 +9,4 @@ Začína biely hráč. V termináli po každom ťahu napíše informácie o aktu
 AKO HRAŤ: 
 Kliknutím tlačidla vyberieme hraciu figúrku a následne myš klikneme na cieľovej destinácii.
 
-v1.1.0 65.02.20 
+v2.0.0 16.02.20 
