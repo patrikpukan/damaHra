@@ -13,6 +13,9 @@ Kliknutím tlačidla vyberieme hraciu figúrku a následne myš klikneme na cie�
 - POKIAĽ PRI MOŽNOSTI DVOJSKOKU HO NECHCETE VYKONAŤ, KLIKNITE NA TLAČIDLO "Cancel Choice"
 
 INFO PRE PROGRAMÁTORA:
+
+* HRACIE POLE JE IMPLEMENTOVANÉ MATICOU (LIST V LISTE). HRA SA VYKRESĽUJE NA ZÁKLADE TEJTO MATICE.
+
 - newGame():
 
 začne novú hru, všetko reštartuje.
