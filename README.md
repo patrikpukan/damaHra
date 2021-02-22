@@ -1,4 +1,3 @@
-Zápočtový program (Zimný semester 2019/2020) - DÁMA (hra)
 - k  hre je nutné mať nainštalovaný modul "tkInter"
 
 Klasická hra dáma pre dvoch hráčov na šachovnici.
