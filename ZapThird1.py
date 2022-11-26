@@ -1,4 +1,4 @@
-from tkinter import *
+from tk import *
 
 screen=Tk()
 screen.title("Dama")
