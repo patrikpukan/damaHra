@@ -1,6 +1,6 @@
 from tk import *
 
-screen=Tk()
+screen=tk()
 screen.title("Dama")
 canvas=Canvas(width=600 , height=600)
 canvas.pack()
